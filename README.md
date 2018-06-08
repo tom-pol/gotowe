@@ -1,0 +1,2 @@
+# gotowe
+GitHub Pages
